@@ -1,0 +1,1 @@
+const cowSay = require('./information.js');
